@@ -1,38 +1,23 @@
- {
+{
   "greeting": "Hey",
   "name": "Sruthi",
-  "greetingText": "Prepare to be amazed!",
-  "wishText": "Wishing you a day filled with magic, surprises, and endless joy!",
+  "greetingText": "I must say, you're looking absolutely fantastic today!",
+  "wishText": "Wishing you a day filled with laughter, cake, and all your favorite things! 🎂🎉",
   "imagePath": "img/lydia2.png",
-  "text1": "Hold on tight, because it's your birthday!!! 🎉🎈",
-  "textInChatBox": "🌟 Happy birthday to the extraordinary Sruthi!! 🌟 May this day bring you everything you've ever wished for!",
-  "sendButtonLabel": "Activate Celebration",
-  "animationSettings": {
-    "entryAnimation": "fade-in",
-    "backgroundAnimation": {
-      "type": "sparkles",
-      "color": "#ffd700",
-      "size": "medium",
-      "density": "high"
-    },
-    "textAnimation": {
-      "type": "bounce",
-      "duration": "2s",
-      "delay": "0.5s"
-    }
-  },
+  "text1": "Guess what? It's your birthday!!! 🎈🎁",
+  "textInChatBox": "🎉 Happy birthday to the amazing Sruthi!! 🎉 May your day be as wonderful as you are!",
+  "sendButtonLabel": "Send Happiness",
   "text2": "I had a plan...",
-  "text3": "But then I got lost in a galaxy of birthday surprises.",
-  "text4": "So I decided to wish you something truly extraordinary instead.",
-  "text4Adjective": "extraordinary",
+  "text3": "But then I saw balloons and got distracted.",
+  "text4": "So I decided to wish you something truly magical instead.",
+  "text4Adjective": "magical",
   "text5Entry": "Because,",
-  "text5Content": "you make every moment magical.",
-  "smiley": "😄",
+  "text5Content": "you make every day sparkle.",
+  "smiley": "😊",
   "bigTextPart1": "H",
   "bigTextPart2": "A",
   "wishHeading": "Happy Birthday, Sruthi!",
-  "outroText": "Hope your day is filled with wonder, laughter, and unforgettable moments!",
-  "replayText": "Click here to experience the magic again!",
-  "outroSmiley": "🎂🎁"
+  "outroText": "Hope your day is filled with laughter, love, and lots of surprises!",
+  "replayText": "Click here if you want to watch the birthday magic again!",
+  "outroSmiley": "🌟"
 }
-
