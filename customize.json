@@ -20,18 +20,4 @@
   "outroText": "Okay, now come back and tell me if you liked it. 😘",
   "replayText": "Or click, if you want to watch it again. 🔁",
   "outroSmiley": "😊",
-  "animationSettings": {
-    "entryAnimation": "fade-in",
-    "backgroundAnimation": {
-      "type": "hearts",
-      "color": "#ff69b4",
-      "size": "medium",
-      "density": "high"
-    },
-    "textAnimation": {
-      "type": "bounce",
-      "duration": "2s",
-      "delay": "0.5s"
-    }
-  }
 }
