@@ -1,11 +1,11 @@
 {
   "greeting": "Hey 🎉",
   "name": "Sruthi",
-  "greetingText": "Love you, Sruthi! 💖",
+  "greetingText": "Love you Sruthi! 💖",
   "wishText": "I'm always be with you! 😉",
   "imagePath": "img/HEIF Image.png",
   "text1": "It's your birthday!!! 😄🎂",
-  "textInChatBox": "Happy birthday to you!! Yeee! 🎉🎈 Many many happy returns of the day!",
+  "textInChatBox": "Happy birthday to you!! Yeee! 🎉🎈 Many many happy blah...",
   "sendButtonLabel": "Send 💌",
   "text2": "That's what I was going to do. 🤔",
   "text3": "But then I stopped. 😲",
@@ -16,9 +16,22 @@
   "smiley": "😊",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
-  "wishHeading": "Happy Birthday, Sruthi! 🎉",
+  "wishHeading": "Happy Birthday Sruthi! 🎉",
   "outroText": "Okay, now come back and tell me if you liked it. 😘",
   "replayText": "Or click, if you want to watch it again. 🔁",
-  "outroSmiley": "😊"
+  "outroSmiley": "😊",
+  "animationSettings": {
+    "entryAnimation": "fade-in",
+    "backgroundAnimation": {
+      "type": "hearts",
+      "color": "#ff69b4",
+      "size": "medium",
+      "density": "high"
+    },
+    "textAnimation": {
+      "type": "bounce",
+      "duration": "2s",
+      "delay": "0.5s"
+    }
+  }
 }
-
