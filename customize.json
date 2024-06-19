@@ -1,6 +1,6 @@
 {
-  "greeting": "Hey 🎉",
-  "name": "Sruthi",
+  "greeting": "Hey",
+  "name": "Sruthi! 🎉",
   "greetingText": "Love you Sruthi! 💖",
   "wishText": "I'm always be with you! 😉",
   "imagePath": "img/HEIF Image.png",
@@ -19,5 +19,5 @@
   "wishHeading": "Happy Birthday Sruthi! 🎉",
   "outroText": "Okay, now come back and tell me if you liked it. 😘",
   "replayText": "Or click, if you want to watch it again. 🔁",
-  "outroSmiley": "😊",
+  "outroSmiley": "😊"
 }
